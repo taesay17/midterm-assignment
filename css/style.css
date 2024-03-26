@@ -163,6 +163,10 @@ body {
     background-color: #E7D2CC;
 }
 p {
-    text-align: center;
+  
     padding: 10px;
+}
+li {
+  list-style-type: circle;
+  padding-left: 40px;
 }

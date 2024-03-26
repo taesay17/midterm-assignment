@@ -151,3 +151,11 @@ body {
 .nav-container input[type="checkbox"]:checked ~ .logo{
   display: none;
 }
+
+
+h3 {
+  text-align: center;
+}
+body {
+  background-color: #E7d2CC;
+}

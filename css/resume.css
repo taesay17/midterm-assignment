@@ -232,7 +232,7 @@ a{color:#66cc99; text-decoration:none;}
     line-height:1em;
     padding-top:40px; 
     @include breakpoint(mama-bear) {
-       padding-top:20px;
+       padding: top 2px;
     }
     @include breakpoint(baby-bear) {
       font-size:1.8em;  
